@@ -1,0 +1,28 @@
+
+# Hello, world!
+
+
+## I think, that the Git is very usefull for education
+
+### For what?
+
+For learning materials preparing. 
+
+### Why the Git, when we have the MS Word?
+
+Don`t worry! You can type Yuor materials in the MS Word, but to save tham in the Git, not on Your personal computer or some cloud storage!
+
+### But why? Why not computer or cloud?
+
+Most short answer: the Git is not storage. It is a Version Control System! 
+
+It saves a history of versions and allows You to do many things with them. This is not single feature of the Git, it has many other excellent
+features, like a sharing Your files for common develoment in Your workgroup etc.
+
+
+## A base
+
+### Github & Company
+
+For first You must get some remote git-repository - You can think, that it is a kind of cloud storage. Most popular is the GitHub, very very
+known in developer`s community. 
